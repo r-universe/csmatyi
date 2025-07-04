@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "binomialtrend"]
+	path = binomialtrend
+	url = https://github.com/cran/binomialtrend
+[submodule "hybridogram"]
+	path = hybridogram
+	url = https://github.com/cran/hybridogram
+[submodule "matrixcut"]
+	path = matrixcut
+	url = https://github.com/cran/matrixcut
